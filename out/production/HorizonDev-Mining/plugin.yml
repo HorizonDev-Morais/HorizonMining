@@ -1,0 +1,7 @@
+name: HorizonMining
+version: 1.0.0
+author: Morais_
+main: com.horizondev.mining.MiningPlugin
+commands:
+  horizonmining:
+    aliases: hm

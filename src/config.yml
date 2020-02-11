@@ -1,0 +1,25 @@
+#Mundo
+world: "Mina"
+
+number-formatting: "K;B;SD;AS"
+
+#Remover drop de blocos no mundo
+use-remove-block-drop: true
+remove-block-drop:
+  - "TNT"
+  - "STONE"
+
+#Blocos e seus respetivos preços
+blocks:
+  - "LAPIS_ORE: 300.0"
+
+#Actionbar com/sem bonus
+normal-actionbar: "&6(!) &eVendeste um minerio por &f%money% &e(&f1.0&e)"
+bonus-actionbar: "&6(!) &eVendeste um minerio por &f%money% &e(&f%bonus%&e)"
+
+#Bonus por grupo( "vip" é um grupo )
+bonus:
+  vip:
+    bonus: 1.5
+  vip2:
+    bonus: 2.0

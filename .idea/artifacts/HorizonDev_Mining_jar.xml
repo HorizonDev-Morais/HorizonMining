@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HorizonDev-Mining:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HorizonDev_Mining_jar</output-path>
+    <root id="archive" name="HorizonMining.jar">
+      <element id="module-output" name="HorizonDev-Mining" />
+    </root>
+  </artifact>
+</component>
